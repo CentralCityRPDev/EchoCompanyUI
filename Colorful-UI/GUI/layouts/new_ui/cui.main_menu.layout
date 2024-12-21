@@ -122,7 +122,7 @@ FrameWidgetClass main_menu_root {
      vexactsize 1
      fixaspect outside
      image0 "set:cui image:Logo"
-     imageTexture ""
+     imageTexture "{2A3D081E5F37F7E4}Colorful-UI/GUI/p-removebg-preview.edds"
      mode blend
      "src alpha" 1
      "clamp mode" clamp
