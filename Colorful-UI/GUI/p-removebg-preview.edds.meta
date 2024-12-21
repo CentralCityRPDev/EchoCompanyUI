@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5DB8801F985BA75B}Colorful-UI/GUI/layouts/new_ui/p-removebg-preview.edds"
+ Author "sk3tchspc"
+ ChangeDate 1037758869
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "p-removebg-preview.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
